@@ -1,4 +1,5 @@
 @Library('sharedLibrary0727')_
 
 echo 'call library'
-mvn()
+sharedLibrary()  
+
