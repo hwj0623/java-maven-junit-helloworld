@@ -1,4 +1,4 @@
-@Library('demo')_
+@Library('sharedLibrary0727')_
 
 echo 'call library'
 mvn()
